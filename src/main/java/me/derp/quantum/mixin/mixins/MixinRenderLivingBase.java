@@ -5,7 +5,6 @@ import java.awt.Color;
 import me.derp.quantum.event.events.RenderEntityModelEvent;
 import me.derp.quantum.features.modules.client.Colors;
 import me.derp.quantum.features.modules.render.Chams;
-import me.derp.quantum.features.modules.render.ESP;
 import me.derp.quantum.features.modules.render.PopChams;
 import me.derp.quantum.util.EntityUtil;
 import me.derp.quantum.util.RenderUtil;
